@@ -1,7 +1,7 @@
 # Should I read this hespress article?
 This project is mainly an exercise for me in order to apply different NLP techniques on textual data in Arabic language. This will allow me to use models that deliver state-of-the-art performance in a variety of language processing tasks and to deploy these models on a flask web application.
 
-### Tools I'm using
+### Tools I'm using:
 TBD
 
 ### To do list:
@@ -16,5 +16,5 @@ TBD
 - Assert if a title is missleading.
 
 
-### Context
+### Context:
 A friend of mine often sends me hespress articles to read that seem either interesting or contain controversial comments. Especially since the site offers a space for anonymous comments, this allows people to share their opinions on the subject covered in the article. I find that for the most part these comments have a negative connotation, and reading these comments is never a pleasant experience. Hence the idea for this project.
