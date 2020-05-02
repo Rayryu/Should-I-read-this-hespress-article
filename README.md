@@ -2,10 +2,10 @@
 This project is mainly an exercise for me in order to apply different NLP techniques on textual data in Arabic language. This will allow me to use models that deliver state-of-the-art performance in a variety of language processing tasks and to deploy these models on a flask web application.
 
 ### Tools I'm using:
-TBD
+Python, Selenium...
 
 ### To do list:
-- [ ] Hespress article content (from link) to a tabular form.
+- [x] Hespress article content (from link) to a tabular form.
 - [ ] Sentimental analysis on article's comments.
 - [ ] Article summarisation.
 - [ ] Deploying models into a flask web app.
