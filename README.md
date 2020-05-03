@@ -6,6 +6,7 @@ Python, Selenium...
 
 ### To do list:
 - [x] Hespress article content (from link) to a tabular form.
+- [ ] Build and label a dataset.
 - [ ] Sentimental analysis on article's comments.
 - [ ] Article summarisation.
 - [ ] Deploying models into a flask web app.
